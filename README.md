@@ -1,8 +1,8 @@
 
 # Microsoft Student Ambassador Journey 🧑‍🎓
 
-Contributor ID: studentamb_547214
-
+Contributor ID: 
+?wt.mc_id=studentamb_547214
 ## About Me
 🎓 Food Science & Technology student at UDS, Ghana  
 🌍 Passionate about combining food science with technology  
